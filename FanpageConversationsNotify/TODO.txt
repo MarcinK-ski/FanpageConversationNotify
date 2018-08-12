@@ -1,0 +1,6 @@
+﻿- niezamykanie okna w przypadku błędów i wyświetlenie tego błędu!!!!
+- zabezpieczenia na niepodanie wartości do app.config
+- przetestować z niepoprawnymi wartosciami w app.config
+- komentarze!
+- ważność tokena
+- 

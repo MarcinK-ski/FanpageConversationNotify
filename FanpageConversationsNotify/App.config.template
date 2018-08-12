@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1"/>
+    </startup>
+  <appSettings>
+    <add key="fanpage" value="FunName" />
+    <add key="fanpageid" value="000" />
+    <add key="token" value="ABC123"/>
+    <add key="period" value="60" />
+  </appSettings>
+</configuration>
